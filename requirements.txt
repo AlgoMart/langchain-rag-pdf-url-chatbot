@@ -1,0 +1,9 @@
+langchain==0.3.19
+langchain-chroma==0.2.2
+langchain-community==0.3.18
+langchain-openai==0.3.2
+notebook==7.3.2
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.41.1
+pypdf==5.1.0
