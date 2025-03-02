@@ -42,7 +42,7 @@ This repository contains a **Retrieval-Augmented Generation (RAG) Chatbot** buil
     ```
 4. Run the chatbot:
     ```bash
-    streamlit run app.py
+    streamlit run chatbot.py
     ```
 
 ## 📚 Use Cases
