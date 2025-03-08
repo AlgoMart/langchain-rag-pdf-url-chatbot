@@ -53,3 +53,25 @@ This repository contains a **Retrieval-Augmented Generation (RAG) Chatbot** buil
 -   Enterprise knowledge retrieval
 
 ### ⭐ Star the repo if you find it useful! 🚀
+
+## Chatbot Images
+
+#### Screen as soon as application starts
+
+![Screen as soon as application starts](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*RGuirLr1K6j-ABXzvwiNEw.png)
+
+#### Screen when you start loading document
+
+![Screen when you start loading document](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sPyvZ-JDJuor1K1khBIqeA.png)
+
+#### Screen where you can chat
+
+![Screen where you can chat](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vIQ_2GxIFWSdlnAApIjQ2g.png)
+
+#### Screen where LLM is thinking
+
+![Screen where LLM is thinking](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3v7vRNAx21AJAztaHVtWgg.png)
+
+#### Screen with LLM response
+
+![Screen with LLM response](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZAjy38Bu5fldsrmie0zqmg.png)
